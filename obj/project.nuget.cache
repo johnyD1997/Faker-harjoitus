@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bEjqDuMgqbwP5hC3CPXIttAhNY5CHt7O2UQ2vT0Fv/k2FzNs72YYR90zO63iXk72RZ5Qt+O9Ywc9dxXNpV2Zg==",
+  "success": true,
+  "projectFilePath": "/Users/s2200685/Documents/work/nuGet project/nuGet project.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2200685/.nuget/packages/faker.net/2.0.154/faker.net.2.0.154.nupkg.sha512",
+    "/Users/s2200685/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/s2200685/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

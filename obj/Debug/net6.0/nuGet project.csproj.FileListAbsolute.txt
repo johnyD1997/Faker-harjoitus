@@ -1,0 +1,18 @@
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/nuGet project
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/nuGet project.deps.json
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/nuGet project.runtimeconfig.json
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/nuGet project.dll
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/nuGet project.pdb
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/Faker.Net.6.0.dll
+/Users/s2200685/Documents/work/nuGet project/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.csproj.AssemblyReference.cache
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.AssemblyInfoInputs.cache
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.AssemblyInfo.cs
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.csproj.CoreCompileInputs.cache
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.csproj.CopyComplete
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.dll
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/refint/nuGet project.dll
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.pdb
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/nuGet project.genruntimeconfig.cache
+/Users/s2200685/Documents/work/nuGet project/obj/Debug/net6.0/ref/nuGet project.dll
